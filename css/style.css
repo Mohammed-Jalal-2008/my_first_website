@@ -2149,3 +2149,8 @@ footer .copyright p::after{
         padding-bottom: 12px;
     }
 }
+@media (min-width: 1400px) {
+    .info .box {
+        height: 280px !important;
+    }
+}
